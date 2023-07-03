@@ -1,5 +1,5 @@
-<img align="center" alt="coding" width="600" src="https://en.wikiversity.org/wiki/File:Computer-screen-code-glitch-animation-gif-background-free.gif">
-<h1 align="center">Hi 👋, I'm Emauzo obaro</h1>
+<img align="center" alt="coding" width="800" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
+<h1 align="center">Hi 👋, I'm Emamuzo obaro</h1>
 <h3 align="center">A passionate software engineer from Nigeria</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
