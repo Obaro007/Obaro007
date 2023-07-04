@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="800" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
+<img align="center" alt="coding" width="800" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Lv8FWglM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1k9xgjrtzgz8mtu3xkod.gif">
 <h1 align="center">Hi 👋, I'm Emamuzo obaro</h1>
 <h3 align="center">A passionate software engineer from Nigeria</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
